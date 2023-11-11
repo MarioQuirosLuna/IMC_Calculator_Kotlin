@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">IMC_Calculator</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="img_female">img Female</string>
+    <string name="img_male">img Male</string>
 </resources>
