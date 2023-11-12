@@ -4,4 +4,33 @@
     <string name="female">Female</string>
     <string name="img_female">img Female</string>
     <string name="img_male">img Male</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">BMI Result</string>
+    <string name="recalculate">Recalculate</string>
+
+    <string name="titleUnderweight">Underweight</string>
+    <string name="descriptionUnderweight">You are underweight. You should eat more!</string>
+
+    <string name="titleNormalWeight">Normal weight</string>
+    <string name="descriptionNormalWeight">You are in the normal weight range. Good job!</string>
+
+    <string name="titleOverweight">Overweight</string>
+    <string name="descriptionOverweight">You are overweight. You should exercise more!</string>
+
+    <string name="titleObesity">Obesity</string>
+    <string name="descriptionObesity">You are obese. You should eat less!</string>
+
+    <string name="titleError">Error</string>
+    <string name="descriptionError">There was an error. Please try again.</string>
+
+    <string name="underWeightValue"><![CDATA[<= 18.5]]></string>
+    <string name="normalWeightValue"><![CDATA[<= 24.9]]></string>
+    <string name="overWeightValue"><![CDATA[<= 29.9]]></string>
+    <string name="obesityValue"><![CDATA[< 30.0]]></string>
+    <string name="titleUnder">Under</string>
+    <string name="titleNormal">Normal</string>
+    <string name="titleOver">Over</string>
+
 </resources>
